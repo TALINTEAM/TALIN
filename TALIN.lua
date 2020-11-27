@@ -2290,7 +2290,7 @@ Text = [[
 ≪━━━━━━𝐓𝐍━━━━━━≫
  ❃∫ ↬[Channel TALIN](t.me/SourceTAlin) 
 ≪━━━━━━𝐓𝐍━━━━━━≫
- ❃∫ ↬[Information](t.me/SourceTAlin)
+ ❃∫ ↬[Information](t.me/x_vta1)
 ≪━━━━━━𝐓𝐍━━━━━━≫
  ❃∫ ↬[DEVELOPER](t.me/KKSVV)
 ≪━━━━━━𝐓𝐍━━━━━━≫
