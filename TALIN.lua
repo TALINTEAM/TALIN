@@ -2288,7 +2288,7 @@ Text = [[
 ≪━━━━━━𝐓𝐍━━━━━━≫
  ❃∫ ↬𝐒𝐎𝐔𝐑𝐂𝐄_𝐓𝐀𝐋𝐈𝐍 
 ≪━━━━━━𝐓𝐍━━━━━━≫
- ❃∫ ↬[Channel TALIN](t.me/Source_TAlin) 
+ ❃∫ ↬[Channel TALIN](t.me/x_vta1) 
 ≪━━━━━━𝐓𝐍━━━━━━≫
  ❃∫ ↬[Information](t.me/Source_TAlin)
 ≪━━━━━━𝐓𝐍━━━━━━≫
