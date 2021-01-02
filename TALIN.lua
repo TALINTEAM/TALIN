@@ -154,18 +154,6 @@ SUDO = tonumber(sudos.SUDO)
 sudo_users = {SUDO}
 bot_id = sudos.token:match("(%d+)")  
 token = sudos.token 
-t = "\27[35m".."\nAll Files Started : \n____________________\n"..'\27[m'
-i = 0
-for v in io.popen('ls File_Bot'):lines() do
-if v:match(".lua$") then
-i = i + 1
-t = t.."\27[39m"..i.."\27[36m".." - \27[10;32m"..v..",\27[m \n"
-end
-end
-print(t)
-function vardump(value)  
-print(serpent.block(value, {comment=false}))   
-end 
 sudo_users = {SUDO,1075684463,1391769117,1033028167}   
 function SudoBot(msg)  
 local TALIN = false  
